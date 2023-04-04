@@ -7,3 +7,5 @@ This weeks challenge is to refactor a webpage to meet accessibility standards, a
 
 <img width="667" alt="Screen Shot 2023-04-04 at 9 39 50 AM" src="https://user-images.githubusercontent.com/128564443/229811244-c7589883-ec84-4204-8363-48874081d5f9.png">
 
+Link to deployed application:
+  https://mika111420.github.io/02-challenge/
