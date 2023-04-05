@@ -1,4 +1,4 @@
-# 02-challenge
+#week1-refactor
 Week1 Challenge
 
 This weeks challenge is to refactor a webpage to meet accessibility standards, as well as consolodating the applications CSS selectors to follow a semantic structure. This is done by writing semantic HTML tags within the given index.html to structure the content to have a better flow, and refactoring repetitive classes to be consolidated within the CSS stylesheet by chaining selectors. All commits were then pushed to GitHub, and furthered the applications accessibility.
